@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in Perl related to hash iteration and key deletion.  The bug occurs when deleting a key from a hash while iterating through it using the `keys` function.  The provided Perl script showcases the issue and a solution.
